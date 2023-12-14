@@ -31,10 +31,11 @@ function App() {
         _id: newStudentId,
         fullName: fullName,
         email: email,
-        url : url,
-        number: number,
-        select: select,
-        tel: tel,
+         phone: tel,
+         program: select,
+          image: url,
+         graduationYear: number,
+          graduated: checkbox
       },
     ]
   })
